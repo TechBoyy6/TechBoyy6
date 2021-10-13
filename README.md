@@ -17,7 +17,7 @@
 <br/>
 <div>
   <h3>📈 GitHub Stats</h3>
-  <img scr="https://github-readme-stats.vercel.app/api?username=TechBoyy6&show_icons=true&theme=chartreuse-light" width="50%" alt="my_github_stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=TechBoyy6&show_icons=true&theme=chartreuse-light" alt="GitHub Stats" align="center" width="50%" />
 </div>
 <div>
   <h3 align='left'>Tools and Languages</h3>
