@@ -2,10 +2,11 @@
 <img align='right' src='https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif'>
 <h1 align="center"> Hi 👋 I’m Moiz </h1>
 <div>
-- 👨‍🎓 SE computer student at SAKEC, Mumbai.<br>
+- 👨‍🎓 SE computer Student at SAKEC, Mumbai.<br>
 - 💯 Python Developer<br>
 - 🔰 Frontend Development | JavaScript.<br>
-- ❤️ Black Mirror, Rick and Morty.
+- ❤️ Black Mirror, Rick and Morty.<br>
+- 🖥️ Open For Work.
 </div>
 <br>
 <div>
