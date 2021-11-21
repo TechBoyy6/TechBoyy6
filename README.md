@@ -6,7 +6,7 @@
 - 💯 Python Developer<br>
 - 🔰 Frontend Development | JavaScript.<br>
 - ❤️ Black Mirror, Rick and Morty.<br>
-- 🖥️ Open For Work.
+- 🖥️ Intern at Efficienergi
 </div>
 <br>
 <div>
