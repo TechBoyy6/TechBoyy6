@@ -2,7 +2,7 @@
 <img align='right' src='https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif'>
 <h1 align="center"> Hi 👋 I’m Moiz </h1>
 <div>
--> 🖥️ Intern at Efficienergi
+-> 🖥️ Intern at Efficienergi.<br>
 -> 👨‍🎓 2nd year computer Student at SAKEC, Mumbai.<br>
 -> 💯 Python Developer<br>
 -> 🔰 Frontend Development | JavaScript.<br>
