@@ -2,11 +2,11 @@
 <img align='right' src='https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif'>
 <h1 align="center"> Hi 👋 I’m Moiz </h1>
 <div>
-- 👨‍🎓 SE computer Student at SAKEC, Mumbai.<br>
-- 💯 Python Developer<br>
-- 🔰 Frontend Development | JavaScript.<br>
-- ❤️ Black Mirror, Rick and Morty.<br>
-- 🖥️ Intern at Efficienergi
+-> 🖥️ Intern at Efficienergi
+-> 👨‍🎓 2nd year computer Student at SAKEC, Mumbai.<br>
+-> 💯 Python Developer<br>
+-> 🔰 Frontend Development | JavaScript.<br>
+-> ❤️ Black Mirror, Rick and Morty.<br>
 </div>
 <br>
 <div>
@@ -25,9 +25,8 @@
   
 ```json
 {
-   "Languages": ["Python", "C/C++"],
-   "Backend": ["Flask", "Django", "Firebase"],
-   "Frontend": ["HTML/CSS"],
+   "Skills": {"Proficient'": ["Python", "C", "Flask", "Django", "JavaScript"],
+              "Familiar": ["HTML", "CSS", "Docker", "Java", "Android"]},
    "Databases": ["Mongodb", "Firebase", "Mysql"],
    "Other skills":["PostMan", "VSCode", "Photoshop", "Android Studio"]
 }
