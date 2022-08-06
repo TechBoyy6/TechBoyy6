@@ -3,9 +3,9 @@
 <h1 align="center"> Hi 👋 I’m Moiz </h1>
 <div>
 -> 🖥️ Intern at Efficienergi.<br>
--> 👨‍🎓 2nd year computer Student at SAKEC, Mumbai.<br>
--> 💯 Python Developer<br>
--> 🔰 Frontend Development | JavaScript.<br>
+-> 👨‍🎓 3rd year computer Student at SAKEC, Mumbai.<br>
+-> 💯 Active Python Developer | Web Developer | Flutter Developer<br>
+-> 🔰 OpenCV enthusiast <br>
 -> ❤️ Black Mirror, Rick and Morty.<br>
 </div>
 <br>
@@ -25,9 +25,9 @@
   
 ```json
 {
-   "Skills": {"Proficient'": ["Python", "C", "Flask", "Django", "JavaScript"],
+   "Skills": {"Proficient'": ["Python", "C", "Flask", "Django", "JavaScript", "Reactjs", "Flutter"],
               "Familiar": ["HTML", "CSS", "Docker", "Java", "Android"]},
-   "Databases": ["Mongodb", "Firebase", "Mysql"],
+   "Databases": ["Mongodb", "Firebase", "Mysql", "PostgresSQL"],
    "Other skills":["PostMan", "VSCode", "Photoshop", "Android Studio"]
 }
 ```
