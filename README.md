@@ -2,9 +2,9 @@
 <img align='right' src='https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif'>
 <h1 align="center"> Hi 👋 I’m Moiz </h1>
 <div>
--> 🖥️ Intern at Efficienergi.<br>
--> 👨‍🎓 3rd year computer Student at SAKEC, Mumbai.<br>
--> 💯 Active Python Developer | Web Developer | Flutter Developer<br>
+-> 🖥️ Data Engineer at IndiaDataHub.<br>
+-> 👨‍🎓 Computer Engineer 2024 graduate<br>
+-> 💯 Active Python Developer | Web Scraper | Flutter Developer<br>
 -> 🔰 OpenCV enthusiast <br>
 -> ❤️ Black Mirror, Rick and Morty.<br>
 </div>
